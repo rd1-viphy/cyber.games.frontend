@@ -1,0 +1,89 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "09279ae90",
+        "09856c69c",
+        "0af92c822",
+        "1d81c35a-e5b0-4076-9b96-f9bf50627f44",
+        "1d81c35a-e5b0-4076-9b96-f9bf50627f44@6c48a",
+        "1d81c35a-e5b0-4076-9b96-f9bf50627f44@f9941",
+        "31d62dcb-d2fc-4283-9886-f96e5e8d1d31",
+        "7b2f4044-7d1d-435b-ba02-3e30c3dd7992",
+        "7b2f4044-7d1d-435b-ba02-3e30c3dd7992@6c48a",
+        "7b2f4044-7d1d-435b-ba02-3e30c3dd7992@f9941",
+        "8a2f0ab6-0629-444c-97c8-170793f2d831",
+        "8a2f0ab6-0629-444c-97c8-170793f2d831@6c48a",
+        "8a2f0ab6-0629-444c-97c8-170793f2d831@f9941",
+        "8d0edfe1-3195-4829-80de-10df716e0cb1",
+        "aae45711-cf3a-49e9-80d7-5fa23c41aae6",
+        "aae45711-cf3a-49e9-80d7-5fa23c41aae6@6c48a",
+        "aae45711-cf3a-49e9-80d7-5fa23c41aae6@f9941"
+    ],
+    "paths": {
+        "31d62dcb-d2fc-4283-9886-f96e5e8d1d31": [
+            "prefab/tipPopup",
+            "cc.Prefab",
+            1
+        ],
+        "8d0edfe1-3195-4829-80de-10df716e0cb1": [
+            "prefab/toastPopup",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "09279ae90": [
+            "1d81c35a-e5b0-4076-9b96-f9bf50627f44@6c48a",
+            "7b2f4044-7d1d-435b-ba02-3e30c3dd7992@6c48a",
+            "8a2f0ab6-0629-444c-97c8-170793f2d831@6c48a",
+            "aae45711-cf3a-49e9-80d7-5fa23c41aae6@6c48a"
+        ],
+        "0af92c822": [
+            "1d81c35a-e5b0-4076-9b96-f9bf50627f44@f9941",
+            "31d62dcb-d2fc-4283-9886-f96e5e8d1d31",
+            "7b2f4044-7d1d-435b-ba02-3e30c3dd7992@f9941",
+            "aae45711-cf3a-49e9-80d7-5fa23c41aae6@f9941"
+        ],
+        "09856c69c": [
+            "8a2f0ab6-0629-444c-97c8-170793f2d831@f9941",
+            "8d0edfe1-3195-4829-80de-10df716e0cb1"
+        ]
+    },
+    "versions": {
+        "import": [
+            "09279ae90",
+            "f1071",
+            "09856c69c",
+            "86b03",
+            "0af92c822",
+            "2c6f1",
+            "1d81c35a-e5b0-4076-9b96-f9bf50627f44",
+            "a2533",
+            "7b2f4044-7d1d-435b-ba02-3e30c3dd7992",
+            "a2533",
+            "8a2f0ab6-0629-444c-97c8-170793f2d831",
+            "a2533",
+            "aae45711-cf3a-49e9-80d7-5fa23c41aae6",
+            "a2533"
+        ],
+        "native": [
+            "1d81c35a-e5b0-4076-9b96-f9bf50627f44",
+            "462a6",
+            "7b2f4044-7d1d-435b-ba02-3e30c3dd7992",
+            "7a04d",
+            "8a2f0ab6-0629-444c-97c8-170793f2d831",
+            "f8082",
+            "aae45711-cf3a-49e9-80d7-5fa23c41aae6",
+            "f2f1e"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

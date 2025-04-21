@@ -1,0 +1,209 @@
+
+dajidali.png
+size: 1522,1522
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+大吉大利-animation_00
+  rotate: false
+  xy: 323, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+大吉大利-animation_01
+  rotate: false
+  xy: 323, 174
+  size: 129, 23
+  orig: 350, 350
+  offset: 36, 327
+  index: -1
+大吉大利-animation_02
+  rotate: true
+  xy: 1412, 72
+  size: 166, 101
+  orig: 350, 350
+  offset: 18, 249
+  index: -1
+大吉大利-animation_03
+  rotate: true
+  xy: 2, 2
+  size: 166, 138
+  orig: 350, 350
+  offset: 18, 193
+  index: -1
+大吉大利-animation_04
+  rotate: true
+  xy: 142, 2
+  size: 166, 126
+  orig: 350, 350
+  offset: 18, 166
+  index: -1
+大吉大利-animation_05
+  rotate: true
+  xy: 270, 2
+  size: 166, 121
+  orig: 350, 350
+  offset: 18, 159
+  index: -1
+大吉大利-animation_06
+  rotate: true
+  xy: 1312, 902
+  size: 299, 191
+  orig: 350, 350
+  offset: 18, 159
+  index: -1
+大吉大利-animation_07
+  rotate: false
+  xy: 454, 5
+  size: 317, 192
+  orig: 350, 350
+  offset: 18, 158
+  index: -1
+大吉大利-animation_08
+  rotate: false
+  xy: 773, 18
+  size: 317, 192
+  orig: 350, 350
+  offset: 18, 158
+  index: -1
+大吉大利-animation_09
+  rotate: true
+  xy: 1311, 1203
+  size: 317, 192
+  orig: 350, 350
+  offset: 18, 158
+  index: -1
+大吉大利-animation_10
+  rotate: true
+  xy: 1248, 240
+  size: 317, 192
+  orig: 350, 350
+  offset: 18, 158
+  index: -1
+大吉大利-animation_11
+  rotate: true
+  xy: 1299, 561
+  size: 317, 192
+  orig: 350, 350
+  offset: 18, 158
+  index: -1
+大吉大利-animation_12
+  rotate: false
+  xy: 1092, 8
+  size: 318, 228
+  orig: 350, 350
+  offset: 18, 122
+  index: -1
+大吉大利-animation_13
+  rotate: true
+  xy: 965, 238
+  size: 319, 281
+  orig: 350, 350
+  offset: 18, 69
+  index: -1
+大吉大利-animation_14
+  rotate: true
+  xy: 993, 1201
+  size: 319, 316
+  orig: 350, 350
+  offset: 18, 30
+  index: -1
+大吉大利-animation_15
+  rotate: false
+  xy: 2, 170
+  size: 319, 335
+  orig: 350, 350
+  offset: 18, 15
+  index: -1
+大吉大利-animation_16
+  rotate: false
+  xy: 2, 845
+  size: 319, 336
+  orig: 350, 350
+  offset: 18, 14
+  index: -1
+大吉大利-animation_17
+  rotate: false
+  xy: 2, 507
+  size: 319, 336
+  orig: 350, 350
+  offset: 18, 14
+  index: -1
+大吉大利-animation_18
+  rotate: false
+  xy: 2, 1183
+  size: 319, 337
+  orig: 350, 350
+  offset: 18, 13
+  index: -1
+大吉大利-animation_19
+  rotate: true
+  xy: 323, 1201
+  size: 319, 334
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_20
+  rotate: false
+  xy: 323, 533
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_21
+  rotate: false
+  xy: 323, 199
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_22
+  rotate: true
+  xy: 644, 880
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_23
+  rotate: true
+  xy: 659, 1201
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_24
+  rotate: false
+  xy: 644, 546
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_25
+  rotate: false
+  xy: 644, 212
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_26
+  rotate: true
+  xy: 965, 559
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_27
+  rotate: true
+  xy: 978, 880
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1
+大吉大利-animation_28
+  rotate: false
+  xy: 323, 867
+  size: 319, 332
+  orig: 350, 350
+  offset: 18, 12
+  index: -1

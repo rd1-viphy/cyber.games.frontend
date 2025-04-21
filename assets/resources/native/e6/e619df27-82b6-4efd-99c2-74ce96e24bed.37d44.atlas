@@ -1,0 +1,104 @@
+
+zhishengji.png
+size: 1161,1161
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+10230
+  rotate: true
+  xy: 265, 3
+  size: 287, 260
+  orig: 350, 350
+  offset: 39, 29
+  index: -1
+10231
+  rotate: true
+  xy: 2, 2
+  size: 288, 261
+  orig: 350, 350
+  offset: 39, 40
+  index: -1
+10232
+  rotate: false
+  xy: 332, 626
+  size: 311, 261
+  orig: 350, 350
+  offset: 18, 39
+  index: -1
+10233
+  rotate: false
+  xy: 2, 889
+  size: 340, 270
+  orig: 350, 350
+  offset: 3, 40
+  index: -1
+10234
+  rotate: true
+  xy: 813, 342
+  size: 278, 261
+  orig: 350, 350
+  offset: 48, 40
+  index: -1
+10235
+  rotate: true
+  xy: 2, 292
+  size: 328, 270
+  orig: 350, 350
+  offset: 9, 33
+  index: -1
+10236
+  rotate: false
+  xy: 344, 889
+  size: 340, 270
+  orig: 350, 350
+  offset: 3, 35
+  index: -1
+10237
+  rotate: true
+  xy: 545, 316
+  size: 304, 266
+  orig: 350, 350
+  offset: 24, 32
+  index: -1
+10238
+  rotate: false
+  xy: 686, 622
+  size: 338, 267
+  orig: 350, 350
+  offset: 4, 31
+  index: -1
+10239
+  rotate: true
+  xy: 527, 17
+  size: 281, 261
+  orig: 350, 350
+  offset: 48, 30
+  index: -1
+10240
+  rotate: true
+  xy: 790, 15
+  size: 299, 260
+  orig: 350, 350
+  offset: 24, 30
+  index: -1
+10241
+  rotate: true
+  xy: 274, 300
+  size: 320, 269
+  orig: 350, 350
+  offset: 13, 29
+  index: -1
+10242
+  rotate: false
+  xy: 2, 624
+  size: 328, 263
+  orig: 350, 350
+  offset: 9, 29
+  index: -1
+10243
+  rotate: false
+  xy: 686, 891
+  size: 340, 268
+  orig: 350, 350
+  offset: 3, 29
+  index: -1

@@ -1,0 +1,83 @@
+
+tuoxie.png
+size: 1313,1313
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+10351
+  rotate: false
+  xy: 2, 961
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10352
+  rotate: true
+  xy: 706, 273
+  size: 341, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10353
+  rotate: true
+  xy: 706, 2
+  size: 269, 324
+  orig: 350, 350
+  offset: 43, 7
+  index: -1
+10354
+  rotate: true
+  xy: 706, 616
+  size: 343, 350
+  orig: 350, 350
+  offset: 5, 0
+  index: -1
+10355
+  rotate: false
+  xy: 2, 609
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10356
+  rotate: false
+  xy: 2, 257
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10357
+  rotate: false
+  xy: 354, 961
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10358
+  rotate: false
+  xy: 706, 961
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10359
+  rotate: false
+  xy: 354, 609
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10360
+  rotate: false
+  xy: 354, 257
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10361
+  rotate: true
+  xy: 2, 61
+  size: 194, 322
+  orig: 350, 350
+  offset: 77, 8
+  index: -1

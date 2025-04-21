@@ -1,0 +1,461 @@
+
+paoche.png
+size: 1270,1270
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+車子動圖-animation_02
+  rotate: true
+  xy: 267, 412
+  size: 28, 13
+  orig: 640, 360
+  offset: 612, 347
+  index: -1
+車子動圖-animation_03
+  rotate: true
+  xy: 586, 1043
+  size: 54, 31
+  orig: 640, 360
+  offset: 586, 329
+  index: -1
+車子動圖-animation_04
+  rotate: true
+  xy: 553, 622
+  size: 89, 54
+  orig: 640, 360
+  offset: 551, 306
+  index: -1
+車子動圖-animation_05
+  rotate: true
+  xy: 560, 713
+  size: 130, 77
+  orig: 640, 360
+  offset: 510, 283
+  index: -1
+車子動圖-animation_06
+  rotate: true
+  xy: 1146, 811
+  size: 173, 103
+  orig: 640, 360
+  offset: 467, 257
+  index: -1
+車子動圖-animation_07
+  rotate: false
+  xy: 650, 252
+  size: 219, 129
+  orig: 640, 360
+  offset: 421, 231
+  index: -1
+車子動圖-animation_08
+  rotate: false
+  xy: 2, 285
+  size: 263, 155
+  orig: 640, 360
+  offset: 377, 205
+  index: -1
+車子動圖-animation_09
+  rotate: false
+  xy: 2, 919
+  size: 303, 173
+  orig: 640, 360
+  offset: 337, 182
+  index: -1
+車子動圖-animation_10
+  rotate: false
+  xy: 2, 1094
+  size: 313, 174
+  orig: 640, 360
+  offset: 300, 160
+  index: -1
+車子動圖-animation_11
+  rotate: false
+  xy: 317, 1099
+  size: 305, 169
+  orig: 640, 360
+  offset: 270, 143
+  index: -1
+車子動圖-animation_12
+  rotate: false
+  xy: 916, 1114
+  size: 285, 154
+  orig: 640, 360
+  offset: 247, 130
+  index: -1
+車子動圖-animation_13
+  rotate: false
+  xy: 296, 719
+  size: 262, 138
+  orig: 640, 360
+  offset: 228, 119
+  index: -1
+車子動圖-animation_14
+  rotate: false
+  xy: 650, 502
+  size: 236, 121
+  orig: 640, 360
+  offset: 220, 114
+  index: -1
+車子動圖-animation_15
+  rotate: false
+  xy: 1061, 62
+  size: 205, 116
+  orig: 640, 360
+  offset: 214, 111
+  index: -1
+車子動圖-animation_27
+  rotate: false
+  xy: 1061, 62
+  size: 205, 116
+  orig: 640, 360
+  offset: 214, 111
+  index: -1
+車子動圖-animation_37
+  rotate: false
+  xy: 1061, 62
+  size: 205, 116
+  orig: 640, 360
+  offset: 214, 111
+  index: -1
+車子動圖-animation_40
+  rotate: false
+  xy: 1061, 62
+  size: 205, 116
+  orig: 640, 360
+  offset: 214, 111
+  index: -1
+車子動圖-animation_16
+  rotate: true
+  xy: 871, 175
+  size: 206, 117
+  orig: 640, 360
+  offset: 212, 111
+  index: -1
+車子動圖-animation_17
+  rotate: false
+  xy: 650, 134
+  size: 219, 116
+  orig: 640, 360
+  offset: 211, 112
+  index: -1
+車子動圖-animation_18
+  rotate: false
+  xy: 650, 625
+  size: 239, 117
+  orig: 640, 360
+  offset: 195, 112
+  index: -1
+車子動圖-animation_19
+  rotate: false
+  xy: 650, 862
+  size: 247, 117
+  orig: 640, 360
+  offset: 193, 112
+  index: -1
+車子動圖-animation_20
+  rotate: false
+  xy: 286, 343
+  size: 252, 116
+  orig: 640, 360
+  offset: 190, 111
+  index: -1
+車子動圖-animation_21
+  rotate: true
+  xy: 414, 84
+  size: 257, 116
+  orig: 640, 360
+  offset: 190, 111
+  index: -1
+車子動圖-animation_22
+  rotate: false
+  xy: 307, 859
+  size: 263, 116
+  orig: 640, 360
+  offset: 188, 111
+  index: -1
+車子動圖-animation_23
+  rotate: false
+  xy: 317, 977
+  size: 267, 120
+  orig: 640, 360
+  offset: 187, 111
+  index: -1
+車子動圖-animation_24
+  rotate: false
+  xy: 624, 981
+  size: 270, 124
+  orig: 640, 360
+  offset: 190, 112
+  index: -1
+車子動圖-animation_25
+  rotate: false
+  xy: 916, 986
+  size: 268, 126
+  orig: 640, 360
+  offset: 195, 112
+  index: -1
+車子動圖-animation_26
+  rotate: false
+  xy: 650, 16
+  size: 219, 116
+  orig: 640, 360
+  offset: 201, 111
+  index: -1
+車子動圖-animation_28
+  rotate: false
+  xy: 650, 383
+  size: 220, 117
+  orig: 640, 360
+  offset: 198, 111
+  index: -1
+車子動圖-animation_29
+  rotate: false
+  xy: 888, 505
+  size: 226, 116
+  orig: 640, 360
+  offset: 190, 112
+  index: -1
+車子動圖-animation_30
+  rotate: false
+  xy: 891, 623
+  size: 239, 117
+  orig: 640, 360
+  offset: 190, 112
+  index: -1
+車子動圖-animation_31
+  rotate: false
+  xy: 898, 742
+  size: 242, 117
+  orig: 640, 360
+  offset: 192, 112
+  index: -1
+車子動圖-animation_32
+  rotate: false
+  xy: 650, 744
+  size: 246, 116
+  orig: 640, 360
+  offset: 190, 111
+  index: -1
+車子動圖-animation_33
+  rotate: true
+  xy: 532, 89
+  size: 252, 116
+  orig: 640, 360
+  offset: 190, 111
+  index: -1
+車子動圖-animation_34
+  rotate: true
+  xy: 294, 83
+  size: 258, 118
+  orig: 640, 360
+  offset: 190, 111
+  index: -1
+車子動圖-animation_35
+  rotate: false
+  xy: 292, 592
+  size: 259, 125
+  orig: 640, 360
+  offset: 194, 111
+  index: -1
+車子動圖-animation_36
+  rotate: false
+  xy: 899, 861
+  size: 245, 123
+  orig: 640, 360
+  offset: 208, 111
+  index: -1
+車子動圖-animation_38
+  rotate: true
+  xy: 990, 180
+  size: 206, 117
+  orig: 640, 360
+  offset: 214, 110
+  index: -1
+車子動圖-animation_39
+  rotate: true
+  xy: 1109, 180
+  size: 206, 117
+  orig: 640, 360
+  offset: 214, 110
+  index: -1
+車子動圖-animation_41
+  rotate: false
+  xy: 286, 461
+  size: 250, 129
+  orig: 640, 360
+  offset: 196, 101
+  index: -1
+車子動圖-animation_42
+  rotate: true
+  xy: 2, 12
+  size: 271, 145
+  orig: 640, 360
+  offset: 144, 73
+  index: -1
+車子動圖-animation_43
+  rotate: false
+  xy: 2, 442
+  size: 282, 150
+  orig: 640, 360
+  offset: 64, 31
+  index: -1
+車子動圖-animation_44
+  rotate: true
+  xy: 149, 11
+  size: 272, 143
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+車子動圖-animation_45
+  rotate: true
+  xy: 1142, 604
+  size: 205, 109
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+車子動圖-animation_46
+  rotate: false
+  xy: 414, 2
+  size: 150, 80
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+車子動圖-animation_47
+  rotate: true
+  xy: 1203, 1161
+  size: 107, 57
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+車子動圖-animation_48
+  rotate: false
+  xy: 566, 47
+  size: 74, 40
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+車子動圖-animation_49
+  rotate: true
+  xy: 1061, 32
+  size: 28, 31
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+車子動圖-animation_50
+  rotate: false
+  xy: 2, 6
+  size: 7, 4
+  orig: 640, 360
+  offset: 0, 20
+  index: -1
+車子動圖-animation_54
+  rotate: true
+  xy: 294, 10
+  size: 71, 99
+  orig: 640, 360
+  offset: 0, 211
+  index: -1
+車子動圖-animation_55
+  rotate: false
+  xy: 871, 31
+  size: 188, 142
+  orig: 640, 360
+  offset: 0, 164
+  index: -1
+車子動圖-animation_56
+  rotate: false
+  xy: 2, 755
+  size: 292, 162
+  orig: 640, 360
+  offset: 28, 110
+  index: -1
+車子動圖-animation_57
+  rotate: false
+  xy: 624, 1107
+  size: 290, 161
+  orig: 640, 360
+  offset: 166, 55
+  index: -1
+車子動圖-animation_58
+  rotate: false
+  xy: 2, 594
+  size: 288, 159
+  orig: 640, 360
+  offset: 300, 2
+  index: -1
+車子動圖-animation_59
+  rotate: false
+  xy: 888, 388
+  size: 225, 115
+  orig: 640, 360
+  offset: 415, 0
+  index: -1
+車子動圖-animation_60
+  rotate: true
+  xy: 572, 845
+  size: 130, 76
+  orig: 640, 360
+  offset: 510, 0
+  index: -1
+車子動圖-animation_61
+  rotate: false
+  xy: 1203, 1114
+  size: 54, 45
+  orig: 640, 360
+  offset: 586, 0
+  index: -1
+車子動圖-animation_64
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_00
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_01
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_51
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_52
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_53
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_62
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+車子動圖-animation_63
+  rotate: false
+  xy: 307, 1091
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

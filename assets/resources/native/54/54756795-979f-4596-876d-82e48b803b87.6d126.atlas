@@ -1,0 +1,202 @@
+
+yuanbao.png
+size: 1473,1473
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+元寶-animation_01
+  rotate: false
+  xy: 309, 1260
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_02
+  rotate: false
+  xy: 616, 1260
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_03
+  rotate: false
+  xy: 923, 1260
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_04
+  rotate: true
+  xy: 1230, 1166
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_05
+  rotate: false
+  xy: 2, 1047
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_06
+  rotate: false
+  xy: 309, 1047
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_07
+  rotate: false
+  xy: 616, 1043
+  size: 305, 215
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_08
+  rotate: false
+  xy: 923, 1042
+  size: 305, 216
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_09
+  rotate: true
+  xy: 1230, 859
+  size: 305, 217
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_10
+  rotate: false
+  xy: 2, 828
+  size: 305, 217
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_11
+  rotate: false
+  xy: 309, 828
+  size: 305, 217
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_12
+  rotate: false
+  xy: 616, 824
+  size: 305, 217
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_13
+  rotate: false
+  xy: 923, 823
+  size: 305, 217
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_14
+  rotate: false
+  xy: 309, 586
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_15
+  rotate: false
+  xy: 616, 582
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_16
+  rotate: false
+  xy: 923, 581
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_17
+  rotate: true
+  xy: 1230, 552
+  size: 305, 241
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_18
+  rotate: true
+  xy: 1230, 245
+  size: 305, 241
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_19
+  rotate: false
+  xy: 2, 345
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_20
+  rotate: false
+  xy: 309, 344
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_21
+  rotate: false
+  xy: 616, 340
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_22
+  rotate: false
+  xy: 923, 339
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_23
+  rotate: false
+  xy: 2, 103
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_24
+  rotate: false
+  xy: 309, 102
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_25
+  rotate: false
+  xy: 616, 98
+  size: 305, 240
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_26
+  rotate: false
+  xy: 2, 587
+  size: 305, 239
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_27
+  rotate: false
+  xy: 2, 1260
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1
+元寶-animation_00
+  rotate: false
+  xy: 2, 1260
+  size: 305, 211
+  orig: 350, 350
+  offset: 20, 47
+  index: -1

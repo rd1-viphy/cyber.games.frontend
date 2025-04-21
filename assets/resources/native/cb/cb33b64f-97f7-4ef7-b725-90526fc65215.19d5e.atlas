@@ -1,0 +1,76 @@
+
+zhadan.png
+size: 904,904
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+10392
+  rotate: false
+  xy: 755, 136
+  size: 108, 142
+  orig: 350, 350
+  offset: 122, 102
+  index: -1
+10393
+  rotate: true
+  xy: 585, 118
+  size: 160, 168
+  orig: 350, 350
+  offset: 83, 97
+  index: -1
+10394
+  rotate: false
+  xy: 648, 651
+  size: 211, 251
+  orig: 350, 350
+  offset: 51, 47
+  index: -1
+10395
+  rotate: true
+  xy: 311, 17
+  size: 262, 272
+  orig: 350, 350
+  offset: 32, 54
+  index: -1
+10396
+  rotate: true
+  xy: 2, 11
+  size: 255, 278
+  orig: 350, 350
+  offset: 32, 49
+  index: -1
+10397
+  rotate: false
+  xy: 617, 280
+  size: 285, 300
+  orig: 350, 350
+  offset: 26, 30
+  index: -1
+10398
+  rotate: true
+  xy: 2, 268
+  size: 318, 307
+  orig: 350, 350
+  offset: 25, 30
+  index: -1
+10399
+  rotate: false
+  xy: 2, 588
+  size: 325, 314
+  orig: 350, 350
+  offset: 11, 30
+  index: -1
+10400
+  rotate: false
+  xy: 311, 281
+  size: 304, 299
+  orig: 350, 350
+  offset: 16, 43
+  index: -1
+10401
+  rotate: false
+  xy: 329, 582
+  size: 317, 320
+  orig: 350, 350
+  offset: 18, 21
+  index: -1

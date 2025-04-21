@@ -1,0 +1,397 @@
+
+huojian.png
+size: 2036,2036
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+火箭動圖-animation_00
+  rotate: false
+  xy: 2, 2033
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+火箭動圖-animation_01
+  rotate: false
+  xy: 2, 2033
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+火箭動圖-animation_02
+  rotate: false
+  xy: 5, 2030
+  size: 16, 4
+  orig: 560, 315
+  offset: 271, 0
+  index: -1
+火箭動圖-animation_03
+  rotate: false
+  xy: 51, 2021
+  size: 35, 13
+  orig: 560, 315
+  offset: 263, 0
+  index: -1
+火箭動圖-animation_04
+  rotate: false
+  xy: 88, 2013
+  size: 47, 21
+  orig: 560, 315
+  offset: 259, 0
+  index: -1
+火箭動圖-animation_05
+  rotate: false
+  xy: 137, 2001
+  size: 63, 33
+  orig: 560, 315
+  offset: 250, 0
+  index: -1
+火箭動圖-animation_06
+  rotate: false
+  xy: 202, 1987
+  size: 69, 47
+  orig: 560, 315
+  offset: 246, 0
+  index: -1
+火箭動圖-animation_07
+  rotate: true
+  xy: 1028, 1894
+  size: 140, 315
+  orig: 560, 315
+  offset: 245, 0
+  index: -1
+火箭動圖-animation_08
+  rotate: true
+  xy: 1345, 1890
+  size: 144, 315
+  orig: 560, 315
+  offset: 244, 0
+  index: -1
+火箭動圖-animation_09
+  rotate: true
+  xy: 1662, 1884
+  size: 150, 300
+  orig: 560, 315
+  offset: 238, 0
+  index: -1
+火箭動圖-animation_10
+  rotate: true
+  xy: 467, 876
+  size: 303, 315
+  orig: 560, 315
+  offset: 85, 0
+  index: -1
+火箭動圖-animation_11
+  rotate: false
+  xy: 2, 2
+  size: 352, 315
+  orig: 560, 315
+  offset: 36, 0
+  index: -1
+火箭動圖-animation_13
+  rotate: false
+  xy: 893, 208
+  size: 484, 307
+  orig: 560, 315
+  offset: 13, 8
+  index: -1
+火箭動圖-animation_14
+  rotate: false
+  xy: 948, 517
+  size: 485, 291
+  orig: 560, 315
+  offset: 13, 24
+  index: -1
+火箭動圖-animation_15
+  rotate: false
+  xy: 784, 822
+  size: 485, 278
+  orig: 560, 315
+  offset: 13, 37
+  index: -1
+火箭動圖-animation_16
+  rotate: false
+  xy: 852, 1102
+  size: 484, 266
+  orig: 560, 315
+  offset: 13, 49
+  index: -1
+火箭動圖-animation_17
+  rotate: false
+  xy: 467, 1465
+  size: 463, 258
+  orig: 560, 315
+  offset: 13, 57
+  index: -1
+火箭動圖-animation_18
+  rotate: false
+  xy: 2, 1485
+  size: 463, 249
+  orig: 560, 315
+  offset: 13, 66
+  index: -1
+火箭動圖-animation_19
+  rotate: false
+  xy: 2, 1213
+  size: 463, 270
+  orig: 560, 315
+  offset: 13, 44
+  index: -1
+火箭動圖-animation_20
+  rotate: false
+  xy: 2, 919
+  size: 463, 292
+  orig: 560, 315
+  offset: 13, 23
+  index: -1
+火箭動圖-animation_21
+  rotate: false
+  xy: 1379, 204
+  size: 463, 310
+  orig: 560, 315
+  offset: 13, 5
+  index: -1
+火箭動圖-animation_24
+  rotate: false
+  xy: 2, 625
+  size: 463, 292
+  orig: 560, 315
+  offset: 13, 19
+  index: -1
+火箭動圖-animation_31
+  rotate: false
+  xy: 1435, 516
+  size: 504, 292
+  orig: 560, 315
+  offset: 56, 7
+  index: -1
+火箭動圖-animation_32
+  rotate: false
+  xy: 1271, 810
+  size: 504, 281
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_33
+  rotate: false
+  xy: 1317, 1370
+  size: 504, 264
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_34
+  rotate: false
+  xy: 1339, 1636
+  size: 504, 246
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_39
+  rotate: false
+  xy: 387, 235
+  size: 504, 302
+  orig: 560, 315
+  offset: 56, 3
+  index: -1
+火箭動圖-animation_40
+  rotate: false
+  xy: 1338, 1093
+  size: 504, 275
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_41
+  rotate: false
+  xy: 467, 539
+  size: 479, 281
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_42
+  rotate: false
+  xy: 467, 1181
+  size: 383, 282
+  orig: 560, 315
+  offset: 67, 0
+  index: -1
+火箭動圖-animation_43
+  rotate: false
+  xy: 636, 1725
+  size: 384, 220
+  orig: 560, 315
+  offset: 66, 70
+  index: -1
+火箭動圖-animation_44
+  rotate: false
+  xy: 932, 1386
+  size: 383, 272
+  orig: 560, 315
+  offset: 67, 40
+  index: -1
+火箭動圖-animation_45
+  rotate: false
+  xy: 2, 319
+  size: 383, 304
+  orig: 560, 315
+  offset: 67, 11
+  index: -1
+火箭動圖-animation_47
+  rotate: true
+  xy: 1022, 1660
+  size: 232, 315
+  orig: 560, 315
+  offset: 66, 0
+  index: -1
+火箭動圖-animation_48
+  rotate: true
+  xy: 2, 1772
+  size: 176, 315
+  orig: 560, 315
+  offset: 114, 0
+  index: -1
+火箭動圖-animation_49
+  rotate: true
+  xy: 319, 1736
+  size: 210, 315
+  orig: 560, 315
+  offset: 149, 0
+  index: -1
+火箭動圖-animation_50
+  rotate: true
+  xy: 776, 1947
+  size: 87, 250
+  orig: 560, 315
+  offset: 273, 65
+  index: -1
+火箭動圖-animation_51
+  rotate: true
+  xy: 524, 1948
+  size: 86, 250
+  orig: 560, 315
+  offset: 274, 65
+  index: -1
+火箭動圖-animation_52
+  rotate: true
+  xy: 273, 1950
+  size: 84, 249
+  orig: 560, 315
+  offset: 275, 66
+  index: -1
+火箭動圖-animation_53
+  rotate: false
+  xy: 37, 2023
+  size: 12, 11
+  orig: 560, 315
+  offset: 274, 304
+  index: -1
+火箭動圖-animation_54
+  rotate: false
+  xy: 23, 2024
+  size: 12, 10
+  orig: 560, 315
+  offset: 274, 305
+  index: -1
+
+huojian2.png
+size: 1587,1587
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+火箭動圖-animation_12
+  rotate: false
+  xy: 1013, 1270
+  size: 375, 315
+  orig: 560, 315
+  offset: 13, 0
+  index: -1
+火箭動圖-animation_22
+  rotate: false
+  xy: 2, 955
+  size: 463, 315
+  orig: 560, 315
+  offset: 13, 0
+  index: -1
+火箭動圖-animation_23
+  rotate: false
+  xy: 467, 954
+  size: 463, 315
+  orig: 560, 315
+  offset: 13, 0
+  index: -1
+火箭動圖-animation_25
+  rotate: false
+  xy: 2, 1272
+  size: 503, 313
+  orig: 560, 315
+  offset: 13, 2
+  index: -1
+火箭動圖-animation_26
+  rotate: false
+  xy: 932, 953
+  size: 547, 315
+  orig: 560, 315
+  offset: 13, 0
+  index: -1
+火箭動圖-animation_27
+  rotate: false
+  xy: 901, 636
+  size: 547, 315
+  orig: 560, 315
+  offset: 13, 0
+  index: -1
+火箭動圖-animation_28
+  rotate: false
+  xy: 385, 637
+  size: 514, 315
+  orig: 560, 315
+  offset: 46, 0
+  index: -1
+火箭動圖-animation_29
+  rotate: false
+  xy: 2, 320
+  size: 504, 315
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_30
+  rotate: false
+  xy: 508, 319
+  size: 504, 315
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_35
+  rotate: false
+  xy: 1014, 319
+  size: 504, 315
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_36
+  rotate: false
+  xy: 507, 1271
+  size: 504, 314
+  orig: 560, 315
+  offset: 56, 1
+  index: -1
+火箭動圖-animation_37
+  rotate: false
+  xy: 2, 3
+  size: 504, 315
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_38
+  rotate: false
+  xy: 508, 2
+  size: 504, 315
+  orig: 560, 315
+  offset: 56, 0
+  index: -1
+火箭動圖-animation_46
+  rotate: false
+  xy: 2, 638
+  size: 381, 315
+  orig: 560, 315
+  offset: 67, 0
+  index: -1

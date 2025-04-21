@@ -1,0 +1,118 @@
+
+bazhang.png
+size: 1292,1292
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+10376
+  rotate: false
+  xy: 2, 940
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10377
+  rotate: false
+  xy: 2, 588
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10378
+  rotate: false
+  xy: 354, 940
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10379
+  rotate: false
+  xy: 1058, 998
+  size: 227, 292
+  orig: 350, 350
+  offset: 57, 0
+  index: -1
+10380
+  rotate: false
+  xy: 354, 247
+  size: 327, 339
+  orig: 350, 350
+  offset: 7, 0
+  index: -1
+10381
+  rotate: false
+  xy: 706, 599
+  size: 322, 339
+  orig: 350, 350
+  offset: 11, 0
+  index: -1
+10382
+  rotate: false
+  xy: 2, 236
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10383
+  rotate: false
+  xy: 354, 588
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10384
+  rotate: false
+  xy: 706, 940
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10385
+  rotate: true
+  xy: 260, 5
+  size: 229, 288
+  orig: 350, 350
+  offset: 56, 0
+  index: -1
+10386
+  rotate: false
+  xy: 1030, 649
+  size: 229, 289
+  orig: 350, 350
+  offset: 56, 0
+  index: -1
+10387
+  rotate: true
+  xy: 2, 2
+  size: 232, 256
+  orig: 350, 350
+  offset: 50, 40
+  index: -1
+10388
+  rotate: false
+  xy: 820, 35
+  size: 238, 262
+  orig: 350, 350
+  offset: 47, 37
+  index: -1
+10389
+  rotate: true
+  xy: 550, 3
+  size: 242, 268
+  orig: 350, 350
+  offset: 45, 35
+  index: -1
+10390
+  rotate: false
+  xy: 943, 315
+  size: 254, 282
+  orig: 350, 350
+  offset: 39, 29
+  index: -1
+10391
+  rotate: false
+  xy: 683, 299
+  size: 258, 287
+  orig: 350, 350
+  offset: 37, 27
+  index: -1

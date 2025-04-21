@@ -1,0 +1,223 @@
+
+chun.png
+size: 1731,1731
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+春-animation_01
+  rotate: true
+  xy: 347, 1481
+  size: 248, 343
+  orig: 350, 350
+  offset: 37, 7
+  index: -1
+春-animation_02
+  rotate: true
+  xy: 692, 1481
+  size: 248, 343
+  orig: 350, 350
+  offset: 38, 7
+  index: -1
+春-animation_03
+  rotate: true
+  xy: 2, 478
+  size: 251, 343
+  orig: 350, 350
+  offset: 36, 7
+  index: -1
+春-animation_04
+  rotate: true
+  xy: 347, 475
+  size: 253, 343
+  orig: 350, 350
+  offset: 36, 7
+  index: -1
+春-animation_05
+  rotate: true
+  xy: 1037, 471
+  size: 256, 343
+  orig: 350, 350
+  offset: 35, 7
+  index: -1
+春-animation_06
+  rotate: true
+  xy: 347, 213
+  size: 259, 344
+  orig: 350, 350
+  offset: 35, 6
+  index: -1
+春-animation_07
+  rotate: true
+  xy: 693, 207
+  size: 262, 344
+  orig: 350, 350
+  offset: 34, 6
+  index: -1
+春-animation_08
+  rotate: true
+  xy: 1039, 202
+  size: 266, 344
+  orig: 350, 350
+  offset: 33, 6
+  index: -1
+春-animation_09
+  rotate: true
+  xy: 1385, 199
+  size: 269, 344
+  orig: 350, 350
+  offset: 32, 6
+  index: -1
+春-animation_10
+  rotate: true
+  xy: 692, 980
+  size: 249, 343
+  orig: 350, 350
+  offset: 55, 7
+  index: -1
+春-animation_11
+  rotate: true
+  xy: 1037, 1481
+  size: 248, 343
+  orig: 350, 350
+  offset: 58, 7
+  index: -1
+春-animation_12
+  rotate: true
+  xy: 1382, 1481
+  size: 248, 343
+  orig: 350, 350
+  offset: 59, 7
+  index: -1
+春-animation_13
+  rotate: true
+  xy: 1037, 980
+  size: 249, 343
+  orig: 350, 350
+  offset: 61, 7
+  index: -1
+春-animation_14
+  rotate: true
+  xy: 1382, 980
+  size: 249, 343
+  orig: 350, 350
+  offset: 62, 7
+  index: -1
+春-animation_15
+  rotate: true
+  xy: 2, 731
+  size: 249, 343
+  orig: 350, 350
+  offset: 62, 7
+  index: -1
+春-animation_16
+  rotate: true
+  xy: 1384, 728
+  size: 250, 343
+  orig: 350, 350
+  offset: 62, 7
+  index: -1
+春-animation_17
+  rotate: true
+  xy: 692, 474
+  size: 253, 343
+  orig: 350, 350
+  offset: 61, 7
+  index: -1
+春-animation_18
+  rotate: true
+  xy: 1382, 470
+  size: 256, 343
+  orig: 350, 350
+  offset: 59, 7
+  index: -1
+春-animation_19
+  rotate: true
+  xy: 2, 217
+  size: 259, 343
+  orig: 350, 350
+  offset: 58, 7
+  index: -1
+春-animation_20
+  rotate: true
+  xy: 347, 730
+  size: 249, 343
+  orig: 350, 350
+  offset: 55, 7
+  index: -1
+春-animation_21
+  rotate: true
+  xy: 347, 1231
+  size: 248, 344
+  orig: 350, 350
+  offset: 53, 6
+  index: -1
+春-animation_22
+  rotate: true
+  xy: 692, 729
+  size: 249, 344
+  orig: 350, 350
+  offset: 50, 6
+  index: -1
+春-animation_23
+  rotate: true
+  xy: 693, 1231
+  size: 248, 344
+  orig: 350, 350
+  offset: 48, 6
+  index: -1
+春-animation_24
+  rotate: true
+  xy: 1038, 729
+  size: 249, 344
+  orig: 350, 350
+  offset: 45, 6
+  index: -1
+春-animation_25
+  rotate: true
+  xy: 2, 1232
+  size: 248, 343
+  orig: 350, 350
+  offset: 43, 7
+  index: -1
+春-animation_26
+  rotate: true
+  xy: 1039, 1231
+  size: 248, 343
+  orig: 350, 350
+  offset: 41, 7
+  index: -1
+春-animation_27
+  rotate: true
+  xy: 1384, 1231
+  size: 248, 343
+  orig: 350, 350
+  offset: 39, 7
+  index: -1
+春-animation_28
+  rotate: true
+  xy: 2, 982
+  size: 248, 343
+  orig: 350, 350
+  offset: 38, 7
+  index: -1
+春-animation_29
+  rotate: true
+  xy: 347, 981
+  size: 248, 343
+  orig: 350, 350
+  offset: 37, 7
+  index: -1
+春-animation_30
+  rotate: true
+  xy: 2, 1482
+  size: 247, 343
+  orig: 350, 350
+  offset: 37, 7
+  index: -1
+春-animation_00
+  rotate: true
+  xy: 2, 1482
+  size: 247, 343
+  orig: 350, 350
+  offset: 37, 7
+  index: -1

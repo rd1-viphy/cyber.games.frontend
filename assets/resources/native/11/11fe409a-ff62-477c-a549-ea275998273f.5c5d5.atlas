@@ -1,0 +1,328 @@
+
+jigu.png
+size: 1613,1613
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+擊鼓-animation_01
+  rotate: false
+  xy: 2, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_09
+  rotate: false
+  xy: 2, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_17
+  rotate: false
+  xy: 2, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_02
+  rotate: true
+  xy: 1327, 1284
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_06
+  rotate: true
+  xy: 1327, 1284
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_10
+  rotate: true
+  xy: 1327, 1284
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_14
+  rotate: true
+  xy: 1327, 1284
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_18
+  rotate: true
+  xy: 1327, 1284
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_22
+  rotate: true
+  xy: 1327, 1284
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_03
+  rotate: false
+  xy: 333, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_11
+  rotate: false
+  xy: 333, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_19
+  rotate: false
+  xy: 333, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_04
+  rotate: false
+  xy: 664, 1360
+  size: 330, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_12
+  rotate: false
+  xy: 664, 1360
+  size: 330, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_20
+  rotate: false
+  xy: 664, 1360
+  size: 330, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_28
+  rotate: false
+  xy: 664, 1360
+  size: 330, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_05
+  rotate: false
+  xy: 996, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_21
+  rotate: false
+  xy: 996, 1360
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_07
+  rotate: false
+  xy: 334, 600
+  size: 329, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_23
+  rotate: false
+  xy: 334, 600
+  size: 329, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_13
+  rotate: false
+  xy: 2, 1107
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_15
+  rotate: false
+  xy: 333, 1107
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_25
+  rotate: false
+  xy: 665, 600
+  size: 329, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_26
+  rotate: true
+  xy: 1326, 955
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_27
+  rotate: false
+  xy: 664, 1107
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_29
+  rotate: false
+  xy: 995, 1107
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_30
+  rotate: false
+  xy: 2, 854
+  size: 327, 251
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_31
+  rotate: false
+  xy: 2, 346
+  size: 327, 252
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_32
+  rotate: true
+  xy: 1299, 301
+  size: 327, 272
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_33
+  rotate: true
+  xy: 662, 7
+  size: 330, 293
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_34
+  rotate: true
+  xy: 996, 529
+  size: 323, 301
+  orig: 350, 350
+  offset: 12, 42
+  index: -1
+擊鼓-animation_35
+  rotate: false
+  xy: 1266, 6
+  size: 330, 293
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_36
+  rotate: true
+  xy: 992, 200
+  size: 327, 272
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_37
+  rotate: false
+  xy: 331, 854
+  size: 327, 251
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_38
+  rotate: false
+  xy: 663, 339
+  size: 327, 259
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_39
+  rotate: false
+  xy: 333, 62
+  size: 327, 282
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_40
+  rotate: true
+  xy: 1320, 630
+  size: 323, 291
+  orig: 350, 350
+  offset: 12, 42
+  index: -1
+擊鼓-animation_41
+  rotate: false
+  xy: 2, 65
+  size: 329, 279
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_42
+  rotate: false
+  xy: 660, 854
+  size: 327, 251
+  orig: 350, 350
+  offset: 9, 42
+  index: -1
+擊鼓-animation_43
+  rotate: false
+  xy: 989, 854
+  size: 329, 251
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_44
+  rotate: false
+  xy: 331, 346
+  size: 330, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_45
+  rotate: false
+  xy: 2, 600
+  size: 330, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_00
+  rotate: false
+  xy: 2, 600
+  size: 330, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_08
+  rotate: false
+  xy: 2, 600
+  size: 330, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_16
+  rotate: false
+  xy: 2, 600
+  size: 330, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1
+擊鼓-animation_24
+  rotate: false
+  xy: 2, 600
+  size: 330, 252
+  orig: 350, 350
+  offset: 8, 42
+  index: -1

@@ -1,0 +1,265 @@
+
+caishen.png
+size: 1822,1822
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+財神-animation_01
+  rotate: true
+  xy: 2, 990
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 24
+  index: -1
+財神-animation_02
+  rotate: true
+  xy: 298, 990
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 25
+  index: -1
+財神-animation_03
+  rotate: true
+  xy: 594, 990
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 26
+  index: -1
+財神-animation_04
+  rotate: true
+  xy: 890, 990
+  size: 276, 293
+  orig: 350, 350
+  offset: 51, 28
+  index: -1
+財神-animation_05
+  rotate: true
+  xy: 1185, 990
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 29
+  index: -1
+財神-animation_06
+  rotate: true
+  xy: 1481, 989
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 31
+  index: -1
+財神-animation_07
+  rotate: true
+  xy: 2, 1545
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 33
+  index: -1
+財神-animation_08
+  rotate: true
+  xy: 298, 1545
+  size: 275, 293
+  orig: 350, 350
+  offset: 52, 36
+  index: -1
+財神-animation_09
+  rotate: true
+  xy: 593, 1545
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 38
+  index: -1
+財神-animation_10
+  rotate: true
+  xy: 889, 1545
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 40
+  index: -1
+財神-animation_11
+  rotate: true
+  xy: 1185, 1545
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 43
+  index: -1
+財神-animation_12
+  rotate: true
+  xy: 1481, 1545
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 45
+  index: -1
+財神-animation_13
+  rotate: true
+  xy: 2, 432
+  size: 278, 294
+  orig: 350, 350
+  offset: 52, 47
+  index: -1
+財神-animation_14
+  rotate: false
+  xy: 890, 416
+  size: 294, 294
+  orig: 350, 350
+  offset: 38, 49
+  index: -1
+財神-animation_15
+  rotate: false
+  xy: 1494, 415
+  size: 299, 294
+  orig: 350, 350
+  offset: 35, 50
+  index: -1
+財神-animation_16
+  rotate: false
+  xy: 298, 123
+  size: 303, 294
+  orig: 350, 350
+  offset: 31, 51
+  index: -1
+財神-animation_17
+  rotate: false
+  xy: 603, 120
+  size: 305, 294
+  orig: 350, 350
+  offset: 28, 52
+  index: -1
+財神-animation_18
+  rotate: false
+  xy: 1186, 416
+  size: 306, 293
+  orig: 350, 350
+  offset: 27, 53
+  index: -1
+財神-animation_19
+  rotate: false
+  xy: 910, 120
+  size: 306, 294
+  orig: 350, 350
+  offset: 27, 52
+  index: -1
+財神-animation_20
+  rotate: false
+  xy: 1218, 119
+  size: 300, 294
+  orig: 350, 350
+  offset: 27, 51
+  index: -1
+財神-animation_21
+  rotate: false
+  xy: 1520, 119
+  size: 300, 294
+  orig: 350, 350
+  offset: 27, 50
+  index: -1
+財神-animation_22
+  rotate: true
+  xy: 2, 131
+  size: 299, 294
+  orig: 350, 350
+  offset: 28, 49
+  index: -1
+財神-animation_23
+  rotate: true
+  xy: 298, 419
+  size: 291, 294
+  orig: 350, 350
+  offset: 36, 47
+  index: -1
+財神-animation_24
+  rotate: true
+  xy: 594, 419
+  size: 291, 294
+  orig: 350, 350
+  offset: 36, 45
+  index: -1
+財神-animation_25
+  rotate: true
+  xy: 2, 1268
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 43
+  index: -1
+財神-animation_26
+  rotate: true
+  xy: 298, 1268
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 40
+  index: -1
+財神-animation_27
+  rotate: true
+  xy: 594, 1268
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 38
+  index: -1
+財神-animation_28
+  rotate: true
+  xy: 890, 1268
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 36
+  index: -1
+財神-animation_29
+  rotate: true
+  xy: 1186, 1268
+  size: 275, 294
+  orig: 350, 350
+  offset: 52, 33
+  index: -1
+財神-animation_30
+  rotate: true
+  xy: 2, 712
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 31
+  index: -1
+財神-animation_31
+  rotate: true
+  xy: 298, 712
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 29
+  index: -1
+財神-animation_32
+  rotate: true
+  xy: 594, 712
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 28
+  index: -1
+財神-animation_33
+  rotate: true
+  xy: 890, 712
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 26
+  index: -1
+財神-animation_34
+  rotate: true
+  xy: 1186, 711
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 25
+  index: -1
+財神-animation_35
+  rotate: true
+  xy: 1482, 711
+  size: 276, 294
+  orig: 350, 350
+  offset: 51, 24
+  index: -1
+財神-animation_36
+  rotate: true
+  xy: 1482, 1267
+  size: 276, 295
+  orig: 350, 350
+  offset: 51, 23
+  index: -1
+財神-animation_00
+  rotate: true
+  xy: 1482, 1267
+  size: 276, 295
+  orig: 350, 350
+  offset: 51, 23
+  index: -1

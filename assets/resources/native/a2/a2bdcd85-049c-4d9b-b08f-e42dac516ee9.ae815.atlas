@@ -1,0 +1,314 @@
+
+fudai.png
+size: 1846,1846
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+福袋噴錢-animation_00
+  rotate: false
+  xy: 808, 37
+  size: 217, 249
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_01
+  rotate: false
+  xy: 331, 12
+  size: 218, 231
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_02
+  rotate: true
+  xy: 1403, 353
+  size: 218, 198
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_03
+  rotate: false
+  xy: 1603, 259
+  size: 218, 183
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_04
+  rotate: true
+  xy: 1027, 98
+  size: 218, 177
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_05
+  rotate: true
+  xy: 1422, 133
+  size: 218, 175
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_06
+  rotate: false
+  xy: 1599, 70
+  size: 216, 187
+  orig: 350, 350
+  offset: 64, 23
+  index: -1
+福袋噴錢-animation_07
+  rotate: false
+  xy: 1206, 130
+  size: 214, 214
+  orig: 350, 350
+  offset: 65, 23
+  index: -1
+福袋噴錢-animation_08
+  rotate: true
+  xy: 1597, 1634
+  size: 210, 247
+  orig: 350, 350
+  offset: 67, 23
+  index: -1
+福袋噴錢-animation_09
+  rotate: false
+  xy: 933, 318
+  size: 208, 276
+  orig: 350, 350
+  offset: 68, 22
+  index: -1
+福袋噴錢-animation_10
+  rotate: true
+  xy: 1557, 664
+  size: 207, 287
+  orig: 350, 350
+  offset: 68, 22
+  index: -1
+福袋噴錢-animation_11
+  rotate: true
+  xy: 1195, 573
+  size: 208, 309
+  orig: 350, 350
+  offset: 68, 22
+  index: -1
+福袋噴錢-animation_12
+  rotate: true
+  xy: 2, 16
+  size: 227, 327
+  orig: 350, 350
+  offset: 50, 23
+  index: -1
+福袋噴錢-animation_13
+  rotate: true
+  xy: 914, 865
+  size: 214, 324
+  orig: 350, 350
+  offset: 65, 23
+  index: -1
+福袋噴錢-animation_14
+  rotate: false
+  xy: 271, 245
+  size: 216, 327
+  orig: 350, 350
+  offset: 64, 23
+  index: -1
+福袋噴錢-animation_15
+  rotate: true
+  xy: 324, 977
+  size: 218, 316
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_16
+  rotate: false
+  xy: 1603, 444
+  size: 218, 218
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_17
+  rotate: true
+  xy: 1600, 1195
+  size: 218, 230
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_18
+  rotate: true
+  xy: 1600, 1415
+  size: 217, 244
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_19
+  rotate: false
+  xy: 489, 245
+  size: 217, 327
+  orig: 350, 350
+  offset: 63, 23
+  index: -1
+福袋噴錢-animation_20
+  rotate: true
+  xy: 947, 1350
+  size: 220, 327
+  orig: 350, 350
+  offset: 60, 23
+  index: -1
+福袋噴錢-animation_21
+  rotate: false
+  xy: 708, 288
+  size: 223, 306
+  orig: 350, 350
+  offset: 57, 23
+  index: -1
+福袋噴錢-animation_22
+  rotate: true
+  xy: 1143, 346
+  size: 225, 258
+  orig: 350, 350
+  offset: 55, 23
+  index: -1
+福袋噴錢-animation_23
+  rotate: true
+  xy: 551, 10
+  size: 233, 255
+  orig: 350, 350
+  offset: 47, 23
+  index: -1
+福袋噴錢-animation_24
+  rotate: false
+  xy: 647, 1517
+  size: 298, 327
+  orig: 350, 350
+  offset: 42, 23
+  index: -1
+福袋噴錢-animation_25
+  rotate: false
+  xy: 324, 1517
+  size: 321, 327
+  orig: 350, 350
+  offset: 27, 23
+  index: -1
+福袋噴錢-animation_26
+  rotate: false
+  xy: 2, 899
+  size: 318, 280
+  orig: 350, 350
+  offset: 32, 23
+  index: -1
+福袋噴錢-animation_27
+  rotate: false
+  xy: 1240, 783
+  size: 315, 257
+  orig: 350, 350
+  offset: 35, 15
+  index: -1
+福袋噴錢-animation_28
+  rotate: false
+  xy: 2, 1181
+  size: 320, 326
+  orig: 350, 350
+  offset: 30, 15
+  index: -1
+福袋噴錢-animation_29
+  rotate: false
+  xy: 1276, 1301
+  size: 322, 269
+  orig: 350, 350
+  offset: 28, 15
+  index: -1
+福袋噴錢-animation_30
+  rotate: false
+  xy: 2, 1509
+  size: 320, 335
+  orig: 350, 350
+  offset: 28, 15
+  index: -1
+福袋噴錢-animation_31
+  rotate: false
+  xy: 324, 1197
+  size: 320, 318
+  orig: 350, 350
+  offset: 28, 15
+  index: -1
+福袋噴錢-animation_32
+  rotate: true
+  xy: 1571, 873
+  size: 320, 260
+  orig: 350, 350
+  offset: 28, 15
+  index: -1
+福袋噴錢-animation_33
+  rotate: false
+  xy: 1245, 1042
+  size: 324, 257
+  orig: 350, 350
+  offset: 24, 15
+  index: -1
+福袋噴錢-animation_34
+  rotate: true
+  xy: 2, 245
+  size: 327, 267
+  orig: 350, 350
+  offset: 21, 5
+  index: -1
+福袋噴錢-animation_35
+  rotate: false
+  xy: 918, 1081
+  size: 325, 267
+  orig: 350, 350
+  offset: 23, 5
+  index: -1
+福袋噴錢-animation_36
+  rotate: true
+  xy: 646, 1192
+  size: 323, 270
+  orig: 350, 350
+  offset: 25, 2
+  index: -1
+福袋噴錢-animation_37
+  rotate: false
+  xy: 947, 1572
+  size: 323, 272
+  orig: 350, 350
+  offset: 25, 0
+  index: -1
+福袋噴錢-animation_38
+  rotate: true
+  xy: 2, 574
+  size: 323, 272
+  orig: 350, 350
+  offset: 25, 0
+  index: -1
+福袋噴錢-animation_39
+  rotate: false
+  xy: 1272, 1572
+  size: 323, 272
+  orig: 350, 350
+  offset: 25, 0
+  index: -1
+福袋噴錢-animation_40
+  rotate: true
+  xy: 642, 867
+  size: 323, 270
+  orig: 350, 350
+  offset: 25, 2
+  index: -1
+福袋噴錢-animation_41
+  rotate: false
+  xy: 545, 598
+  size: 323, 267
+  orig: 350, 350
+  offset: 25, 5
+  index: -1
+福袋噴錢-animation_42
+  rotate: false
+  xy: 870, 596
+  size: 323, 267
+  orig: 350, 350
+  offset: 25, 5
+  index: -1
+福袋噴錢-animation_43
+  rotate: true
+  xy: 276, 574
+  size: 323, 267
+  orig: 350, 350
+  offset: 25, 5
+  index: -1

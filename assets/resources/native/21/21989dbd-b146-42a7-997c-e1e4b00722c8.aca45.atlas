@@ -1,0 +1,118 @@
+
+feibiao.png
+size: 1356,1356
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+10277
+  rotate: false
+  xy: 1032, 1032
+  size: 322, 322
+  orig: 350, 350
+  offset: 14, 14
+  index: -1
+10278
+  rotate: false
+  xy: 354, 694
+  size: 336, 322
+  orig: 350, 350
+  offset: 14, 14
+  index: -1
+10279
+  rotate: false
+  xy: 2, 34
+  size: 336, 322
+  orig: 350, 350
+  offset: 14, 14
+  index: -1
+10280
+  rotate: false
+  xy: 354, 1018
+  size: 336, 336
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10281
+  rotate: false
+  xy: 1030, 708
+  size: 322, 322
+  orig: 350, 350
+  offset: 14, 14
+  index: -1
+10282
+  rotate: false
+  xy: 1030, 384
+  size: 322, 322
+  orig: 350, 350
+  offset: 14, 14
+  index: -1
+10283
+  rotate: false
+  xy: 692, 708
+  size: 336, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10284
+  rotate: false
+  xy: 692, 384
+  size: 336, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10285
+  rotate: false
+  xy: 354, 370
+  size: 336, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10286
+  rotate: false
+  xy: 692, 60
+  size: 336, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10287
+  rotate: true
+  xy: 1030, 46
+  size: 336, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10288
+  rotate: false
+  xy: 342, 46
+  size: 336, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10289
+  rotate: false
+  xy: 2, 682
+  size: 350, 334
+  orig: 350, 350
+  offset: 0, 2
+  index: -1
+10290
+  rotate: false
+  xy: 2, 1018
+  size: 350, 336
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10291
+  rotate: false
+  xy: 2, 358
+  size: 338, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1
+10292
+  rotate: false
+  xy: 692, 1032
+  size: 338, 322
+  orig: 350, 350
+  offset: 0, 14
+  index: -1

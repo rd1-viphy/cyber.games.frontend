@@ -1,0 +1,307 @@
+
+wushi.png
+size: 1940,1940
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+舞獅-animation_00
+  rotate: false
+  xy: 2, 1280
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_01
+  rotate: false
+  xy: 325, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_02
+  rotate: false
+  xy: 2, 950
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_03
+  rotate: false
+  xy: 325, 1280
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_04
+  rotate: false
+  xy: 648, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_05
+  rotate: false
+  xy: 2, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_06
+  rotate: false
+  xy: 325, 950
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_07
+  rotate: false
+  xy: 648, 1280
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_08
+  rotate: false
+  xy: 971, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_09
+  rotate: false
+  xy: 2, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_10
+  rotate: false
+  xy: 325, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_11
+  rotate: false
+  xy: 648, 950
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_12
+  rotate: false
+  xy: 971, 1280
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_13
+  rotate: false
+  xy: 1294, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_14
+  rotate: false
+  xy: 325, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_15
+  rotate: false
+  xy: 648, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_16
+  rotate: false
+  xy: 971, 950
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_17
+  rotate: false
+  xy: 1294, 1280
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_18
+  rotate: false
+  xy: 1617, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_19
+  rotate: false
+  xy: 648, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_20
+  rotate: false
+  xy: 971, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_21
+  rotate: false
+  xy: 1294, 950
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_22
+  rotate: false
+  xy: 1617, 1280
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_23
+  rotate: false
+  xy: 971, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_24
+  rotate: false
+  xy: 1294, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_25
+  rotate: false
+  xy: 1617, 950
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_27
+  rotate: false
+  xy: 1294, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_31
+  rotate: false
+  xy: 1294, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_37
+  rotate: false
+  xy: 1294, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_41
+  rotate: false
+  xy: 1294, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_28
+  rotate: false
+  xy: 1617, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_30
+  rotate: false
+  xy: 1617, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_38
+  rotate: false
+  xy: 1617, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_40
+  rotate: false
+  xy: 1617, 620
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_29
+  rotate: false
+  xy: 1617, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_39
+  rotate: false
+  xy: 1617, 290
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_42
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_26
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_32
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_33
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_34
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_35
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
+舞獅-animation_36
+  rotate: false
+  xy: 2, 1610
+  size: 321, 328
+  orig: 350, 350
+  offset: 21, 14
+  index: -1
