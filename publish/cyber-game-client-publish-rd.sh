@@ -31,5 +31,5 @@ sed -i "s#VERSION: \".*\"#VERSION: \"v$version\"#g" ./web-pc/Config*.js
 # 10. 返回上级目录
 cd ../
 # 11. 启动 frontend 服务
-docker compose start frontend
+docker compose start frontend-rd
 echo "发布流程完成！"
