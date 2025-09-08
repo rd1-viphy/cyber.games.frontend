@@ -17,10 +17,10 @@ rm -rf web-pc
 unzip /home/ubuntu/cyber.games.frontend/web-mobile.zip
 unzip /home/ubuntu/cyber.games.frontend/web-pc.zip
 # 8. 替换链接地址，现在默认是demo地址,此处略过
-# 9. 替换版本号为当前的年月日时分
-version=$(date +%Y%m%d%H%M)
-sed -i "s#VERSION: \".*\"#VERSION: \"v$version\"#g" ./web-mobile/Config.*.js
-sed -i "s#VERSION: \".*\"#VERSION: \"v$version\"#g" ./web-pc/Config.*.js
+# 9. 替换版本号为当前的年月日时分（已修改为构建时替换）
+# version=$(date +%Y%m%d%H%M)
+# sed -i "s#VERSION: \".*\"#VERSION: \"v$version\"#g" ./web-mobile/Config.*.js
+# sed -i "s#VERSION: \".*\"#VERSION: \"v$version\"#g" ./web-pc/Config.*.js
 # 10. 返回上级目录
 cd ../
 # 11. 启动 frontend 服务
