@@ -20,6 +20,7 @@ unzip /home/ubuntu/cyber.games.frontend/web-pc.zip
 sed -i "s#WS_URL: 'wss://bcg-demo.t9live.cc/ws'#WS_URL: \"wss://bcg-demo.t9live.cc/ws.rd\"#g" ./web-mobile/Config*.js
 sed -i "s#PROTO_URL: 'https://bcg-demo.t9live.cc/conf/assets/cyber.games.bin'#PROTO_URL: \"https://bcg-demo.t9live.cc/conf.rd/assets/cyber.games.bin\"#g" ./web-mobile/Config*.js
 sed -i "s#HTTP_URL: 'https://bcg-demo.t9live.cc/bridge.api/'#HTTP_URL: \"https://bcg-demo.t9live.cc/bridge.rd.api/\"#g" ./web-mobile/Config*.js
+sed -i "s#DESCRIPTION_URL: 'https://bcg-demo.t9live.cc/help/'#DESCRIPTION_URL: \"https://bcg-demo.t9live.cc/help.rd/\"#g" ./web-mobile/Config*.js
 
 sed -i "s#WS_URL: 'wss://bcg-demo.t9live.cc/ws'#WS_URL: \"wss://bcg-demo.t9live.cc/ws.rd\"#g" ./web-pc/Config*.js
 sed -i "s#PROTO_URL: 'https://bcg-demo.t9live.cc/conf/assets/cyber.games.bin'#PROTO_URL: \"https://bcg-demo.t9live.cc/conf.rd/assets/cyber.games.bin\"#g" ./web-pc/Config*.js
