@@ -24,6 +24,7 @@ sed -i "s#HTTP_URL: 'https://bcg-demo.t9live.cc/bridge.api/'#HTTP_URL: \"https:/
 sed -i "s#WS_URL: 'wss://bcg-demo.t9live.cc/ws'#WS_URL: \"wss://bcg-demo.t9live.cc/ws.rd\"#g" ./web-pc/Config*.js
 sed -i "s#PROTO_URL: 'https://bcg-demo.t9live.cc/conf/assets/cyber.games.bin'#PROTO_URL: \"https://bcg-demo.t9live.cc/conf.rd/assets/cyber.games.bin\"#g" ./web-pc/Config*.js
 sed -i "s#HTTP_URL: 'https://bcg-demo.t9live.cc/bridge.api/'#HTTP_URL: \"https://bcg-demo.t9live.cc/bridge.rd.api/\"#g" ./web-pc/Config*.js
+sed -i "s#DESCRIPTION_URL: 'https://bcg-demo.t9live.cc/help/'#DESCRIPTION_URL: \"https://bcg-demo.t9live.cc/help.rd/\"#g" ./web-pc/Config*.js
 # 9. 替换版本号为当前的年月日时分（已修改为构建时替换）
 # version=$(date +%Y%m%d%H%M)
 # sed -i "s#VERSION: \".*\"#VERSION: \"v$version\"#g" ./web-mobile/Config*.js
